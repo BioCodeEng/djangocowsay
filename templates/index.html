@@ -1,0 +1,6 @@
+<button><a href="/history/">History</a></button>
+    <form action="" method="post">
+        {% csrf_token %} {{ form.as_p }}
+        <input type="submit" value="Submit" />
+    </form>
+<pre>{{subprocess}}</pre>
