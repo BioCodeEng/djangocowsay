@@ -11,14 +11,14 @@ def index_view(request):
             data = form.cleaned_data
             text = data.get("text")
             CowText.objects.create(text=text)
-            cow_process = subprocess.run(
+            cow_sub = subprocess.run(
                 f"cowsay '{text}'", capture_output=True, shell=True
             ).stdout.decode("utf-8")
             form = CowForm()
             return render(request, "index.html", {
                 "form": form,
-                "welcome": "What does the cow say?",
-                "subprocess": cow_process
+                "welcome": "The cow says?",
+                "subprocess": cow_sub
             })
 
     form = CowForm()
