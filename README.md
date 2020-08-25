@@ -5,6 +5,8 @@ Also important: Part of Academic Integrity is definitely not plagiarising, but i
 
 Edit: Monday, August 24, 2020: After having this public only 5ish hours, there are already 5 Clones with 5 Unique cloners. I refer to the above paragraph about cloning unauthorized unless you are authorized Kenzie Grading Staff, and the above-mentioned policy against against not only plagiarism but interfering with, sabotgaing, or obstructing another student's work, something I've had to deal with since Q1.
 
+2nd Edit: In Q3, last quarter, we used Github, and this was not an issue. All of a sudden, in Q4, it is? Why?
+
 Sources for understanding and assistance, in no particular order:
 
 [R1]. https://docs.python.org/3/library/subprocess.html
