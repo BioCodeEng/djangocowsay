@@ -1,4 +1,7 @@
-[Author: Ally Engle
+Author: Ally Engle
+
+Important: I DO NOT give permission for anyone to clone this, with the exception of Kenzie staff who are grading it. If you are not grading it, don't clone it.
+Also important: Part of Academic Integrity is definitely not plagiarising, but it also involves not interfering with, sabotaging, or obstructing another student's work. 
 
 Sources for understanding and assistance, in no particular order:
 
